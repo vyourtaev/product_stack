@@ -1,0 +1,4 @@
+{"timestamp": 123, "type": "ProductCreated", "id": 1, "parent_id": null, "stock": 10}
+{"timestamp": 124, "type": "ProductCreated", "id": 2, "parent_id": 1, "stock": 10}
+{"timestamp": 125, "type": "ProductCreated", "id": 3, "parent_id": 1, "stock": 10}
+{"timestamp": 127, "type": "ProductUpdated", "id": 3, "stock": 0}
